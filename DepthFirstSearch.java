@@ -1,3 +1,12 @@
+/**
+ * 
+ * @name: Depth First Search
+ * @author: Max Base
+ * @repository: https://github.com/BaseMax/DepthFirstSearchJava
+ * @date: 2022/12/19
+ * 
+ */
+
 class StackX {
     private final int SIZE = 20;
     private int[] st;
